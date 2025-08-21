@@ -15,7 +15,7 @@ I then went and deplyed an agent, this ment me setting up another machine for th
 
 after the install I could then see my agent 
 
-<img width="1038" height="234" alt="image" src="https://github.com/user-attachments/assets/56697244-1a9a-4c1c-9dac-ef127b8e02f8" />
+<img width="1040" height="236" alt="image" src="https://github.com/user-attachments/assets/87883aaa-deec-448a-a63c-4bc27afc68db" />
 
 Clicking into the agent I can already see vulnerabiliies, from: 
   - Packages
