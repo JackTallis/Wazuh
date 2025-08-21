@@ -7,7 +7,7 @@ This was simple just followed the Wazuh quick setup guide from here (https://doc
 
 <img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/a9acb5a0-ad5a-472b-b790-e7d089252bb5" />
 
-#Deplying agent
+# Deplying agent
 
 I then went and deplyed an agent, this ment me setting up another machine for the agent
 
