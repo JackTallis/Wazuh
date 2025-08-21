@@ -1,5 +1,5 @@
 # Wazuh
-Setting up the wazuh siem on my home server. I'm doing this to see what issue it present to my home network
+Setting up the wazuh siem on my home server. I'm doing this to see how SIEMS work 
 
 # The setup
 
